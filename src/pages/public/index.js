@@ -1,0 +1,12 @@
+export {default as Home} from './Home';
+export {default as Login} from './Login';
+export {default as Public} from './Public';
+export {default as Allbum} from './Allbum';
+export {default as SectionWeek} from './SectionWeek';
+export {default as Searchs} from './Searchs';
+export {default as SearchAll} from './SearchAll';
+export {default as SearchSong} from './SearchSong';
+export {default as Singer} from './Singer';
+export {default as SearchPlaylist} from './SearchPlaylist';
+export {default as ArtistSinger} from './ArtistSinger';
+export {default as BXHWeek} from './BXHWeek';
